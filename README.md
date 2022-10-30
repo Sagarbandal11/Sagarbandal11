@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sagarbandal11
 - 👀 I’m interested in Data science and RPA
-- 🌱 I’m currently learning Data science
+- 🌱 I’m currently working in Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
